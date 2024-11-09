@@ -6,6 +6,9 @@
 
 </div>
 
+## What is this fork?
+This is a backport of the original to fabric 1.20.1.
+
 ## About
 Adds a simple colored display in the item stack tooltip with its
 byte size.
